@@ -1,0 +1,22 @@
+{
+ "WE2": {
+  "file": "obs_80_55c9_3b03_d94b.csv",
+  "bytes": 29639080,
+  "sha256": "4a91ee6656324c485c8d7f651e3e48eca4eef77857c59cc26e3a8d43260cad86"
+ },
+ "WE4": {
+  "file": "obs_81_0b83_f02c_75d2.csv",
+  "bytes": 24407704,
+  "sha256": "1844c416a9da0717d0e7a76670da1edf7709a7484b2e617773ab059f89f65f50"
+ },
+ "WE8": {
+  "file": "obs_82_382e_34e9_51a8.csv",
+  "bytes": 30822374,
+  "sha256": "3a60bced1693a5ce2196eb8b7a3d32d67945e66eb655f3283b71a2a2746c1e5f"
+ },
+ "WE13": {
+  "file": "obs_215_e358_af2a_241c.csv",
+  "bytes": 8834266,
+  "sha256": "4b31235671e539406da049126baaef702dc718de523c3b07910735d1e21facf4"
+ }
+}

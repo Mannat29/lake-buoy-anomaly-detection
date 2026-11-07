@@ -1,0 +1,15 @@
+{
+ "ingest_csv_s": 1.5076710590000175,
+ "tidy_merge_s": 2.0366920209999932,
+ "aggregate_s": 0.0792989600000169,
+ "all_detectors_s": 1.1071256190000156,
+ "rows_real": 330384,
+ "rows_replicated_x20": 2228060,
+ "hampel_temp_x20_s": 0.6982165189999989,
+ "peak_mem_MB": 1313,
+ "machine": {
+  "cores": 1,
+  "python": "3.12.3",
+  "pandas": "3.0.2"
+ }
+}
